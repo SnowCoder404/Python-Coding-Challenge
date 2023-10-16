@@ -1,3 +1,6 @@
+#
+#   Copyright © 2023, SnowCoder404
+#
 zahl = 0
 for i in range(100):
     zahl = zahl + 1
